@@ -1,3 +1,3 @@
 # License
 
-MIT
+GPL 3
